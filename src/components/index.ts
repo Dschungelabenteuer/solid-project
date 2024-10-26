@@ -1,4 +1,4 @@
 import Counter from "./Counter";
-import Title from "./Link";
+import Link from "./Link";
 
-export { Counter, Title };
+export { Counter, Link };
