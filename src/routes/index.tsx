@@ -1,6 +1,5 @@
 import { Title } from "@solidjs/meta";
-import Counter from "~/components/Counter";
-import Link from "~/components/Link";
+import { Counter, Link } from "~/components/index";
 
 export default function Home() {
   return (
